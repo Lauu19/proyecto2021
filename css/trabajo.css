@@ -1,0 +1,42 @@
+h1{
+    color:black;
+}
+address{
+	color: white;
+}
+#cabecera{   
+	position: absolute;
+	text-align: center;
+    top: 2%;
+    left: 2%;
+    height: 10%;
+    width: 93%;
+}
+#indice{
+	position: absolute;
+	top:15%;
+	left:2%;
+	width: 25%;
+	height:83%;
+}
+#contenido{
+	position: absolute;
+	top:13%;
+	left:30%;
+	width: 65%;
+	height:75%;
+}
+#piedepagina{
+	position: absolute;
+	top:89%;
+	left:30%;
+	height: 10%;
+	width: 65%;
+	background-color: red;
+}
+.b{
+    background-color: yellow;
+}
+.a{
+    background-color: red;
+}
