@@ -1,8 +1,10 @@
 h1{
-    color:black;
+    color:white;
 }
 address{
-	color: white;
+	color: black;
+	text-align: center;
+	
 }
 #cabecera{   
 	position: absolute;
@@ -14,29 +16,29 @@ address{
 }
 #indice{
 	position: absolute;
-	top:15%;
+	top:14%;
 	left:2%;
 	width: 25%;
 	height:83%;
 }
 #contenido{
 	position: absolute;
-	top:13%;
+	top:17%;
 	left:30%;
 	width: 65%;
-	height:75%;
+	height:73%;
 }
 #piedepagina{
 	position: absolute;
-	top:89%;
+	top:91%;
 	left:30%;
-	height: 10%;
+	height: 7%;
 	width: 65%;
-	background-color: red;
+	background-color: turquoise;
 }
 .b{
-    background-color: yellow;
+    background-color: pink;
 }
 .a{
-    background-color: red;
+   background-color: #a770b2;
 }
