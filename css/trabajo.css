@@ -1,5 +1,5 @@
 h1{
-    color:white;
+    color:purple;
 }
 address{
 	color: black;
@@ -27,7 +27,6 @@ address{
 	left:30%;
 	width: 65%;
 	height:73%;
-
 }
 #piedepagina{
 	position: absolute;
@@ -35,11 +34,12 @@ address{
 	left:30%;
 	height: 7%;
 	width: 65%;
-	background-color: turquoise;
+	background-color: E2F0CB;
 }
 .b{
-    background-color: pink;
+    background-color: B0EFEF;
 }
 .a{
-   background-color: #a770b2;
+   background-color: E0BBE4;
 }
+
