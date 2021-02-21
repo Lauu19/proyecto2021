@@ -4,7 +4,8 @@ h1{
 address{
 	color: black;
 	text-align: center;
-
+	font-weight: bold;
+	padding: 20px;
 }
 #cabecera{   
 	position: absolute;
@@ -18,7 +19,7 @@ address{
 	position: absolute;
 	top:14%;
 	left:2%;
-	width: 25%;
+	width: 26%;
 	height:84%;
 }
 #contenido{
@@ -41,4 +42,18 @@ address{
 }
 .a{
    background-color: E0BBE4;
+}
+
+table {
+	border: 3px solid black;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+tr, td {
+	border: 3px solid black;
+}
+
+p {
+	padding-right: 15px;
 }
